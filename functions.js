@@ -28,4 +28,4 @@ function lastLetter(word){
     return letter;
 }
 
-console.log(lastLetter("hello"))
+console.log(lastLetter("hello world"))
